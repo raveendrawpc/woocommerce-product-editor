@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "RabindraPantha\\WordPress\\WooCommerce\\": "src/"
+        }
+    }
+}
